@@ -1,8 +1,8 @@
-# Profile Julio Contreras
+# Authentication Frontend
 
 ## About
 
-Site to show my profile.
+Authentication frontend with login, register and forgot password
 
 ## Developing
 
